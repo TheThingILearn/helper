@@ -43,7 +43,11 @@ in that code we goin to filter by the tow column the cars_model and the cars_sta
 
 ![the code it self table](https://github.com/TheThingILearn/helper/blob/main/that%20the%20data%20table%20i%20will%20filter%20by%20in%20that%20example%20(1).png)
 
+in here we all ready followed the video and got to the point where we can all ready use the filters.
+
 
 ![the code it self table](https://github.com/TheThingILearn/helper/blob/main/that%20the%20data%20table%20i%20will%20filter%20by%20in%20that%20example%20(2).png
 )
+
+now the filter for the car model will go to the TextField and the filter for the car status will go to the DropDown
 
