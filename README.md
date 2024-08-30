@@ -3,8 +3,6 @@ note: i know the cars its just example but it makes it easier for me to work wit
 in that code we have table in supabase clled "car" and we query all the table.
 in that table there is 2 column, one name cars_model and the other sale_status
 
-that the code for that
-
 ![the supabase table](https://github.com/TheThingILearn/helper/blob/main/Screenshot_2024-08-30_21-55-37.png)
 
 ![the code it self table](https://github.com/TheThingILearn/helper/blob/main/Screenshot_2024-08-30_21-56-59.png)
