@@ -4,8 +4,8 @@ in that code we have table in supabase clled "car" and we query all the table.
 in that table there is 2 column, one name cars_model and the other sale_status
 
 that the code for that
----------------------------------------------------------------------------------------
-'''
+
+```
 // Automatic FlutterFlow imports
 import '/backend/supabase/supabase.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
@@ -35,8 +35,9 @@ Future<List<CarRow>> filters(String? carsmodel, String? salestatus) async {
 }
 // Set your action name, define your arguments and return parameter,
 // and then add the boilerplate code using the green button on the right!
-'''
----------------------------------------------------------------------------------------
+```
+
+
 
 now follow that video https://www.youtube.com/watch?v=7eLJvJicC3E&t=90s
 
