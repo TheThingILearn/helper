@@ -50,4 +50,5 @@ in here we all ready followed the video and got to the point where we can all re
 )
 
 now the filter for the car model will go to the TextField and the filter for the car status will go to the DropDown
+the fillters will not cancle each other
 
