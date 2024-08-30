@@ -7,7 +7,7 @@ that the code for that
 
 ![the supabase table](https://github.com/TheThingILearn/helper/blob/main/Screenshot_2024-08-30_21-55-37.png)
 
-![the code it self table](https://github.com/TheThingILearn/helper/blob/main/Screenshot_2024-08-30_21-55-37.png)
+![the code it self table](https://github.com/TheThingILearn/helper/blob/main/Screenshot_2024-08-30_21-56-59.png)
 
 
 ```
