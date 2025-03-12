@@ -58,7 +58,7 @@ the deflut video - https://assets.mixkit.co/videos/preview/mixkit-forest-stream-
 and hit confirm
 ---------------------------------------------------------------------------------------------------------------------------
 7. Add a button to the home page and add on tap action, then use the cutsom code on the action block and set
-an action out put
+an action out put to "videoFile"
 ---------------------------------------------------------------------------------------------------------------------------
 8. create a new button and upload the file to supabase using the action out put
 ---------------------------------------------------------------------------------------------------------------------------
