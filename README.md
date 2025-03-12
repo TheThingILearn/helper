@@ -1,6 +1,6 @@
 1. Create an AppState name "videoState" and set the data/field type to "Video Path" (notes the upper and lower case in the name)
 ---------------------------------------------------------------------------------------------------------------------------
-2. create new custom action and Import that Package: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
+2. create new custom action and add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
 ---------------------------------------------------------------------------------------------------------------------------
 3. add that code to the new cutsom action
 
