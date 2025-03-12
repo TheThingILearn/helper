@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 2. create new custom action and Import that Package: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
 ---------------------------------------------------------------------------------------------------------------------------
-3.add that code:
+3. add that code to the new cutsom action
 
 import 'package:file_picker/file_picker.dart';
 import 'package:universal_html/html.dart' as html;
