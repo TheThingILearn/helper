@@ -60,7 +60,5 @@ and hit confirm
 7. Add a button to the home page and add on tap action, then use the cutsom code on the action block and set
 an action out put to "videoFile"
 ---------------------------------------------------------------------------------------------------------------------------
-8. create a new button and upload the file to supabase using the action out put
----------------------------------------------------------------------------------------------------------------------------
-
+8. create a new button and upload the file to supabase like you usually will using the action out put as the file to upload.
 ---------------------------------------------------------------------------------------------------------------------------
