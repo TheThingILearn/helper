@@ -46,6 +46,6 @@ Future<FFUploadedFile?> videoPreviewFinal() async {
 }
 ```
 ---------------------------------------------------------------------------------------------------------------------------
-4. make the return value UploadedFile and tick the null box
+4. make the return value UploadedFile and tick the null box 
 ---------------------------------------------------------------------------------------------------------------------------
-5.
+5. Change the custom action name to "videoPreviewFinal" save and check for errors
