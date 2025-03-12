@@ -49,3 +49,17 @@ Future<FFUploadedFile?> videoPreviewFinal() async {
 4. make the return value UploadedFile and tick the null box 
 ---------------------------------------------------------------------------------------------------------------------------
 5. Change the custom action name to "videoPreviewFinal" save and check for errors
+---------------------------------------------------------------------------------------------------------------------------
+6. go to your app HomePage and add a video player widget in the video type change/keep it to "NetWork"
+in the path make a "conditional builder" and set the condetion to single condetion and make the first value
+to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then value"
+To the AppState(videoState) and the else is where you will put the placeholder of the video
+the deflut video - https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4
+---------------------------------------------------------------------------------------------------------------------------
+7. Add a button to the home page and add on tap action, then use the cutsom code on the action block and set
+an action out put
+---------------------------------------------------------------------------------------------------------------------------
+8. create a new button and upload the file to supabase using the action out put
+---------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------
