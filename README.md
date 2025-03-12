@@ -55,6 +55,7 @@ in the path make a "conditional builder" and set the condetion to single condeti
 to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then" value
 To the AppState(videoState) and the else is where you will put the placeholder of the video
 the deflut video - https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4
+and hit confirm
 ---------------------------------------------------------------------------------------------------------------------------
 7. Add a button to the home page and add on tap action, then use the cutsom code on the action block and set
 an action out put
