@@ -52,7 +52,7 @@ Future<FFUploadedFile?> videoPreviewFinal() async {
 ---------------------------------------------------------------------------------------------------------------------------
 6. go to your app HomePage and add a video player widget in the video type change/keep it to "NetWork"
 in the path make a "conditional builder" and set the condetion to single condetion and make the first value
-to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then value"
+to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then" value
 To the AppState(videoState) and the else is where you will put the placeholder of the video
 the deflut video - https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4
 ---------------------------------------------------------------------------------------------------------------------------
