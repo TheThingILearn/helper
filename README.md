@@ -46,6 +46,7 @@ Future<String> videoPreviewV2(FFUploadedFile videoFile) async {
 // Set your action name, define your arguments and return parameter,
 // and then add the boilerplate code using the green button on the right!e
 ```
+
 ---------------------------------------------------------------------------------------------------------------------------
 4. Change the custom action name to "videoPreviewV2" save and check for errors
 ---------------------------------------------------------------------------------------------------------------------------
