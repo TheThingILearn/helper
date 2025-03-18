@@ -56,8 +56,7 @@ and set the upload type to "Local Widget (Widget State)" then set the Media Sour
 and Tick off the "Allow Photo"(just for the test).
 
 b. 
-
- in the same action tree add new action and set it to the custom action we made (videoPreviewV2), set the "VideoFile" argument to the
+in the same action tree add new action and set it to the custom action we made (videoPreviewV2), set the "VideoFile" argument to the
 "Uploaded Local File" from the First action we created, and give a name to the "Action Output Variable Name"
 
 ---------------------------------------------------------------------------------------------------------------------------
