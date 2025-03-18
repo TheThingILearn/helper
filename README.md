@@ -1,7 +1,8 @@
-1.a create new custom action and Set the return type to "VideoPath" and uncheck the Nullable.
-   define a new argument call "videoFile" and set it to type "UploadedFile" (FFUploadedFile)
 ---------------------------------------------------------------------------------------------------------------------------
-2. create new custom action and add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
+1. create new custom action and Set the return type to "VideoPath" and uncheck the Nullable.
+then define a new argument call "videoFile" and set it to type "UploadedFile" (FFUploadedFile)
+---------------------------------------------------------------------------------------------------------------------------
+2. add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
 ---------------------------------------------------------------------------------------------------------------------------
 3. add that code to the new cutsom action
 
@@ -46,9 +47,9 @@ Future<String> videoPreviewV2(FFUploadedFile videoFile) async {
 // and then add the boilerplate code using the green button on the right!e
 ```
 ---------------------------------------------------------------------------------------------------------------------------
-4. make the return value UploadedFile and tick the null box 
+4. Change the custom action name to "videoPreviewV2" save and check for errors
 ---------------------------------------------------------------------------------------------------------------------------
-5. Change the custom action name to "videoPreviewFinal" save and check for errors
+5. Go to your Home page and add Button widget and open the action tree
 ---------------------------------------------------------------------------------------------------------------------------
 6. go to your app HomePage and add a video player widget in the video type change/keep it to "NetWork"
 in the path make a "conditional builder" and set the condetion to single condetion and make the first value
