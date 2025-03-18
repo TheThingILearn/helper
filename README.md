@@ -62,8 +62,8 @@ in the same action tree add new action and set it to the custom action we made (
 
 ---------------------------------------------------------------------------------------------------------------------------
 6. add a video player widget and set the video type to "NetWork" set the path to the Action Output you created.
-now for the place holder the one that FlutterFlow give is not good is doing alot of lags for the video player widget
-so what i recomend for now is to upload a random video to your supabase storage then copy the url from supabase and
+for the place holder the one that FlutterFlow gives is not good is doing alot of lags for the video player widget
+so what i recomend is to upload a random video to your supabase storage then copy the url from supabase and
 use it as the place holder(Default Variable Value).
 ---------------------------------------------------------------------------------------------------------------------------
 7. create a new button and upload the file to supabase like you usually will using the action out put as the file to upload.
