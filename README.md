@@ -49,11 +49,13 @@ Future<String> videoPreviewV2(FFUploadedFile videoFile) async {
 ---------------------------------------------------------------------------------------------------------------------------
 4. Change the custom action name to "videoPreviewV2" save and check for errors
 ---------------------------------------------------------------------------------------------------------------------------
-5.a Go to your Home page add Button widget and open the Action Flow Editor (Action tree), add the "Upload/Save Media" action (Utilltles >> Upload Data >> Upload/Save Media),
+5.a 
+Go to your Home page add Button widget and open the Action Flow Editor (Action tree), add the "Upload/Save Media" action (Utilltles >> Upload Data >> Upload/Save Media),
 set the upload type to "Local Widget (Widget State)" and the Media Source "Gallery" for now, Check on the "Allow Video" and for know
 check off the "Allow Photo"
 
-b. in the same action tree add new action and set it to the custom action we made (videoPreviewV2), the argument set it to the
+b. 
+in the same action tree add new action and set it to the custom action we made (videoPreviewV2), the argument set it to the
 "Uploaded Local File" from the First action we created, and create give a name to the "Action Output Variable Name"
 
 ---------------------------------------------------------------------------------------------------------------------------
