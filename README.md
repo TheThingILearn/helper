@@ -59,15 +59,10 @@ b.
 "Uploaded Local File" from the First action we created, and give a name to the "Action Output Variable Name"
 
 ---------------------------------------------------------------------------------------------------------------------------
-6. add a video player widget and set the video type to "NetWork" in the path make a 
-in the path make a "conditional builder" and set the condetion to single condetion and make the first value
-to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then" value
-To the AppState(videoState) and the else is where you will put the placeholder of the video
-the deflut video - https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4
-and hit confirm
+6. add a video player widget and set the video type to "NetWork" set the path to the Action Output you created.
+now for the place holder the one that FlutterFlow give is not good is doing alot of lags for the video player widget
+so what i recomend for now is to upload a random video to your supabase storage then copy the url from supabase and
+use it as the place holder(Default Variable Value).
 ---------------------------------------------------------------------------------------------------------------------------
-7. Add a button to the home page and add on tap action, then use the cutsom code on the action block and set
-an action out put to "videoFile"
----------------------------------------------------------------------------------------------------------------------------
-8. create a new button and upload the file to supabase like you usually will using the action out put as the file to upload.
+7. create a new button and upload the file to supabase like you usually will using the action out put as the file to upload.
 ---------------------------------------------------------------------------------------------------------------------------
