@@ -52,8 +52,8 @@ Future<String> videoPreviewV2(FFUploadedFile videoFile) async {
 ---------------------------------------------------------------------------------------------------------------------------
 5.a Go to your Home page add a Button widget and open the Action Flow Editor (Action tree),in the action tree add the 
 "Upload/Save Media" action (Utilltles >> Upload Data >> Upload/Save Media),
-and set the upload type to "Local Widget (Widget State)" then set the Media Source to "Gallery" for now, Tick on the "Allow Video" 
-and for now Tick off the "Allow Photo".
+and set the upload type to "Local Widget (Widget State)" then set the Media Source to "Gallery", Tick on the "Allow Video" 
+and Tick off the "Allow Photo"(just for the test).
 
 b. 
 
