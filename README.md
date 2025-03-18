@@ -2,7 +2,7 @@
 1. create new custom action and Set the return type to "VideoPath" and Check off the Nullable.
 then define a new argument call "videoFile" set it to type "UploadedFile" (FFUploadedFile) and check off the Nullable.
 ---------------------------------------------------------------------------------------------------------------------------
-2. add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
+2. add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button)
 ---------------------------------------------------------------------------------------------------------------------------
 3. add that code to the new cutsom action
 
@@ -51,10 +51,11 @@ Future<String> videoPreviewV2(FFUploadedFile videoFile) async {
 ---------------------------------------------------------------------------------------------------------------------------
 5.a Go to your Home page add a Button widget and open the Action Flow Editor (Action tree),in the action tree add the 
 "Upload/Save Media" action (Utilltles >> Upload Data >> Upload/Save Media),
-and set the upload type to "Local Widget (Widget State)" then set the Media Source to "Gallery" for now, Check on the "Allow Video" and for now
-check off the "Allow Photo".
+and set the upload type to "Local Widget (Widget State)" then set the Media Source to "Gallery" for now, Check on the "Allow Video" 
+and for now check off the "Allow Photo".
 
 b. 
+
  in the same action tree add new action and set it to the custom action we made (videoPreviewV2), set the "VideoFile" argument to the
 "Uploaded Local File" from the First action we created, and give a name to the "Action Output Variable Name"
 
