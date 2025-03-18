@@ -59,7 +59,7 @@ b.
 "Uploaded Local File" from the First action we created, and give a name to the "Action Output Variable Name"
 
 ---------------------------------------------------------------------------------------------------------------------------
-6. go to your app HomePage and add a video player widget in the video type change/keep it to "NetWork"
+6. add a video player widget and set the video type to "NetWork" in the path make a 
 in the path make a "conditional builder" and set the condetion to single condetion and make the first value
 to the AppState you careated(videoState) and set the condetion to "Is Set" and press confirm. next make the "Then" value
 To the AppState(videoState) and the else is where you will put the placeholder of the video
