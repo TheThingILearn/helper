@@ -1,4 +1,4 @@
-1. Set the return type to "VideoPath" and uncheck the Nullable.
+1.a create new custom action and Set the return type to "VideoPath" and uncheck the Nullable.
    define a new argument call "videoFile" and set it to type "UploadedFile" (FFUploadedFile)
 ---------------------------------------------------------------------------------------------------------------------------
 2. create new custom action and add that dependenie: universal_html: ^2.2.4 (Dont forget to hit the green reset button) 
